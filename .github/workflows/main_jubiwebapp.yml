@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'jubiwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_149778E3C6704A549806BF20F5215539 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D5A6DCAD877546D8940299F21AFEE797 }}
